@@ -1,0 +1,8 @@
+url: https://github.com/boogoo619/dsh-focus-overlay
+name: boogoo619/dsh-focus-overlay
+category: ui
+description:
+  en: >-
+    Focus mode for the Web GUI: one keystroke opens a full-screen reading view that hides the header, composer and sidebar, collapses tool calls into official-style count summaries, and adds a turn navigator, a bottom dock composer sharing the main draft, and auto-focus with new-reply alerts.
+  zh: >-
+    专注模式：一键进入全屏阅读视图，隐藏标题区、输入区与侧栏，把工具调用折叠为计数摘要，只保留对话本身；含轮次导航条、与主输入框共享草稿的底部输入坞，以及自动专注与新回复提醒。
